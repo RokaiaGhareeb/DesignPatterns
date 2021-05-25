@@ -1,7 +1,7 @@
 # DesginPatterns
 playing around with some Design patterns using my favourite sport as an example to understand them :soccer: :hearts:
 <br>
- implmented using C# :computer:
+ implemented using C# :computer:
 
 ## List of the included patterns 
 
@@ -17,7 +17,7 @@ You can learn more from here : https://refactoring.guru/design-patterns/strategy
 
 - Decorator design pattern to change my players abilities and position - I have a midfilder that can be a very good forward :alien: - 
 
-Here the player (component interface) can be field player or goalkeeper both can baiscally passBall () and can be wrapped bu other abilities like being forward or defender or both (Dedorators) <br>
+Here the player (component interface) can be field player or goalkeeper both can baiscally passBall () and can be wrapped by other abilities like being forward or defender or both (Decorators) <br>
 You can learn more from here : https://refactoring.guru/design-patterns/decorator
 
 <br> <br> <br>
