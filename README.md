@@ -1,4 +1,4 @@
-# DesginPatterns
+# Design Patterns
 playing around with some Design patterns using my favourite sport as an example to understand them :soccer: :hearts:
 <br>
  implemented using C# :computer:
